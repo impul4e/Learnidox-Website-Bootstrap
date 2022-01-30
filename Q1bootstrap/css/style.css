@@ -1,0 +1,96 @@
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+.nav{
+    color: black;
+}
+.nav-st{
+    font-size: 24px;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+.containerA{
+    margin-top: 50px;
+}
+.containerL{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 150px;
+    padding-right: auto;
+    padding-left: auto;
+    color: white;
+    text-align: justify;
+}
+.containerContacts{
+    margin-top: 100px;
+    padding-right: auto;
+    padding-left: auto;
+    color: white;
+    text-align: justify;
+}
+.author{
+
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding-right: auto;
+    padding-left: auto;
+    color: white;
+    text-align: right;
+}
+
+.carousel-inner{
+    text-align: center;
+
+    text-orientation: center;
+    image-rendering: high-quality;
+}
+.carousel-item{
+    height: 300px;
+
+}
+.hg{
+    vertical-align: middle;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.img-px{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.panel-heading{
+    text-align: center;
+    font-size: 32px;
+    color: white;
+    font-style: white;
+}
+
+.img-px3{
+    float:left;
+    margin: 7px 20px 5px 0px;
+    display: block;
+    width: 30%;
+    border: 1px solid white;
+    border-radius: 5px;
+    height: auto;
+
+}
+p{
+    text-align: justify;
+    margin-left: 0px;
+
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
